@@ -3,7 +3,7 @@ import random
 pieceScore = {"K": 0 , "Q": 9, "R" : 5, "B": 3, "N": 3, "p": 1}
 CHECKMATE = 1000 
 STALEMATE = 0 
-DEPTH = 1 # how many moves ahead the AI is searching, gets exponentially slower as depth increases
+DEPTH = 3 # how many moves ahead the AI is searching, gets exponentially slower as depth increases
 
 """
 These arrays are to help evaluate moreequal positions for the AI
