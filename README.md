@@ -16,7 +16,7 @@ A complete chess game implementation in Python using Pygame, featuring an AI opp
 
 1. **Clone the repository**:
    
-   -git clone https://github.com/yourusername/chess-engine.git
+   -git clone https://github.com/evaikunth/ChessEngine.git
    -cd chess-engine
    
 
